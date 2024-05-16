@@ -14,3 +14,7 @@ A study guide for a machine learning (ML) engineer breadth interview: [Machine L
 ### Array Sorting Algorithms
 - [Quick Sort](https://github.com/jman4162/machine-learning-review/blob/main/An_Introduction_to_Quicksort_Using_Python.ipynb)
 - [Merge Sort](https://github.com/jman4162/machine-learning-review/blob/main/Merge_Sort_Algorithm_Tutorial_in_Python.ipynb)
+
+### Python Profiling
+
+- [Python Profiling Using cProfile](https://github.com/jman4162/machine-learning-review/blob/main/Python_Profiling_with_%60cProfile%60_A_Comprehensive_Guide.ipynb)
