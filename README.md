@@ -10,6 +10,7 @@ A study guide for a machine learning (ML) engineer breadth interview: [Machine L
 ### ML Algorithms
 - [Logistic Regression](https://github.com/jman4162/machine-learning-review/blob/main/Review_Python_Tutorial_on_Logistic_Regression.ipynb)
 - [Support Vector Machines (SVM)](https://github.com/jman4162/machine-learning-review/blob/main/Python_Review_Tutorial_Support_Vector_Machines_(SVM).ipynb)
+- [Implementing a Random Forest Classifier](https://github.com/jman4162/machine-learning-review/blob/main/Implementing_a_Random_Forest_Classifier.ipynb)
 
 ### Array Sorting Algorithms
 - [Quick Sort](https://github.com/jman4162/machine-learning-review/blob/main/An_Introduction_to_Quicksort_Using_Python.ipynb)
